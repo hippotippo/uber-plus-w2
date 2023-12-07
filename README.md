@@ -1,9 +1,30 @@
-# The IRS is now charging 8% on quarterly taxes for side hustles like Uber as of Oct 1st because of the Fed raing its rates
+# The IRS is now charging 8% on quarterly taxes for side hustles like Uber as of Oct 1st because of the Fed raising its rates over the past year
 
 The deadline to pay estimated taxes for the final quarter of 2023 is January 15, however, if you file your 2023 tax return by January 31 and pay all taxes you owe for the year, that deadline does not apply.
 
-Estimated taxes can be paid through the IRS website at IRS.gov. 
+# Making $1000 on your side hustle after taxes will cost you $100 
+If you wait until April 15th to pay your taxes you are out of compliance and will have to pay a penalty on the income earned. Interest is accrued daily with the IRS!!
+Even if the IRS will owe you moey at tax time for your side hustle it is better to make a $20 estimated payment rather than get penalized for $5000 of income on April 15th
 
+
+Estimated taxes can be paid via mail or online
+PDF file -- https://www.irs.gov/pub/irs-pdf/f1040es.pdf
+Online -- https://www.irs.gov/payments/direct-pay
+
+With Online you need to 
+1. Choose "Estimated taxes (1040ES) and
+2. Verify your identity from proceedng tax year
+3. Set a date in the future to pay (if needed)
+
+You can also post date your check to the IRS for the Estimated Tax dates
+For calendar-year taxpayers the IRS due dates are:
+
+April 15
+June 15
+September 15
+January 15
+
+# Proof that the new rate is 8%
 https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6621&num=0&edition=prelim
 
 §6621. Determination of rate of interest
@@ -16,13 +37,6 @@ The Fed rate is now 5% so this makes the penalyty rate 8%.
 
 IRS penalty for underpayment of estimated taxes is for side hustles only and will not affect the W2 payroll taxes submitted.
 
-
-For calendar-year taxpayers the IRS due dates are:
-
-April 15
-June 15
-September 15
-January 15
 
 # python tax_rate.py
 Enter your filing status:
