@@ -129,8 +129,8 @@ def main():
     number_of_teens = int(input("Enter the number of qualifying children between 16 and 23: "))
     child_credits = get_child_tax_credit(number_of_children, number_of_teens, filing_status)
 
-    side_hustle_gross_income = float(input("Enter your total gross income from side hustles: "))
-    side_hustle_expenses = float(input("Enter your total expenses from side hustles: "))
+    side_hustle_gross_income = int(input("Enter your total gross income from side hustles: "))
+    side_hustle_expenses = int(input("Enter your total expenses from side hustles: "))
     side_hustle_net_income = side_hustle_gross_income - side_hustle_expenses
     total_income = income_from_w2s + side_hustle_net_income
 
@@ -150,12 +150,13 @@ def main():
     print(f"Total taxable income: {total_income}")
     print(f"Total deductions: {total_deductions}")
     print(f"Total child tax credits: {child_credits}")
-    print(f"Tax owed after deductions and credits: {tax_owed}")
-    print(f"Side hustle tax: {side_hustle_tax}")
-    quarterly_taxes_2024 = side_hustle_tax / 4
-    print(f"2024 Quarterly Taxes (estimated at 8%): {quarterly_taxes_2024}")
+    print(f"Tax owed after deductions and credits: {tax_owed:.2f}")
+    print(f"Side hustle tax for 2023: {side_hustle_tax:.2f}")
+    quarterly_taxes_2024 = (side_hustle_tax)/4
+    print(f"2024 Quarterly Taxes Estimate: \033[95m{quarterly_taxes_2024:.2f}\033[0m")
     if side_hustle_tax > 1000:
-        print("Immediate penalty applicable if above $1000 for the year. Estimated quarterly payments should be submitted.")
+        print("\033[1mImmediate penalty applicable if above $1000 for the year. Estimated quarterly payments should be submitted.\033[0m")
+
 
 
 if __name__ == "__main__":
