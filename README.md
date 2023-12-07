@@ -1,4 +1,4 @@
-# The IRS is now charging 8% on quarterly taxes for side hustles like Uber as of Oct 1st because of the Fed raising its rates over the past year
+# The IRS is now charging 8% on quarterly taxes for side hustles, like Uber, as of Oct 1st because of the Fed raising its rates over the past year
 
 The deadline to pay estimated taxes for the final quarter of 2023 is January 15, however, if you file your 2023 tax return by January 31 and pay all taxes you owe for the year, that deadline does not apply.
 
@@ -48,18 +48,18 @@ All PC's and Macs have pyton running on them. Just python and the name of the fi
 Enter your filing status:<br>
 1: Single<br>
 2: Head of Household<br>
-3: Married Filing Jointly
-4: Married Filing Separately
-Choose (1-4): 3
-How many W-2 forms do you need to enter? 1
-Enter the income from W-2 form 1: 175000
-Do you plan to itemize deductions? (yes/no): no
-Enter the number of qualifying children under 16: 1
-Enter the number of qualifying children between 16 and 23: 1
-Enter your total gross income from side hustles: 5000
-Enter your total expenses from side hustles: 4000
-Total taxable income: 176000.0
-Total deductions: 27700
-Total child tax credits: 3600
-Tax owed after deductions and credits: 23241.0
-Side hustle tax: 220.0
+3: Married Filing Jointly<br>
+4: Married Filing Separately<br>
+Choose (1-4): 3<br>
+How many W-2 forms do you need to enter? 1<br>
+Enter the income from W-2 form 1: 175000<br>
+Do you plan to itemize deductions? (yes/no): no<br>
+Enter the number of qualifying children under 16: 1<br>
+Enter the number of qualifying children between 16 and 23: 1<br>
+Enter your total gross income from side hustles: 5000<br>
+Enter your total expenses from side hustles: 4000<br>
+Total taxable income: 176000.0<br>
+Total deductions: 27700<br>
+Total child tax credits: 3600<br>
+Tax owed after deductions and credits: 23241.0<br>
+Side hustle tax: 220.0<br>
