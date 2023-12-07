@@ -4,7 +4,7 @@ The deadline to pay estimated taxes for the final quarter of 2023 is January 15,
 
 # Making $1000 on your side hustle after taxes will cost you $100 
 If you wait until April 15th to pay your taxes you are out of compliance and will have to pay a penalty on the income earned. Interest is accrued daily with the IRS!!
-Even if the IRS will owe you moey at tax time for your side hustle it is better to make a $20 estimated payment rather than get penalized for $5000 of income on April 15th
+Even if the IRS will owe you money at tax time for your side hustle it is better to make a $20 estimated payment rather than get penalized for $5000 of income on April 15th
 
 
 Estimated taxes can be paid via mail or online
@@ -13,8 +13,13 @@ Online -- https://www.irs.gov/payments/direct-pay
 
 With Online you need to 
 1. Choose "Estimated taxes (1040ES) and
-2. Verify your identity from proceedng tax year
-3. Set a date in the future to pay (if needed)
+2. Choose your payment method (Bank or credit card)
+3. Verify your identity from proceedng tax year
+4. Set a date in the future to pay (if needed)
+5. Confirm all info
+6. Submit
+
+Your 1040 form will ask if you made 1040-ES payments. You do not need to submit any paperwork now.
 
 You can also post date your check to the IRS for the Estimated Tax dates
 For calendar-year taxpayers the IRS due dates are:
@@ -37,7 +42,7 @@ The Fed rate is now 5% so this makes the penalyty rate 8%.
 
 IRS penalty for underpayment of estimated taxes is for side hustles only and will not affect the W2 payroll taxes submitted.
 
-
+All PC's and Macs have pyton running on them. Just python and the name of the file
 # python tax_rate.py
 Enter your filing status:
 1: Single
