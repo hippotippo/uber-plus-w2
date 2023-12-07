@@ -63,3 +63,52 @@ Total deductions: 27700<br>
 Total child tax credits: 3600<br>
 Tax owed after deductions and credits: 23241.0<br>
 Side hustle tax: 220.0<br>
+
+
+# Python Setup and Basic Usage Guide for Mac and PC
+
+## Introduction
+
+This guide provides instructions on how to set up Python on a Mac or PC and run a simple Python program.
+
+## Installation
+
+### For Mac Users
+
+1. **Install Python**: 
+   - Visit the [official Python website](https://www.python.org/downloads/).
+   - Download the latest version for macOS.
+   - Open the downloaded `.pkg` file and follow the installation instructions.
+
+2. **Verify Installation**: 
+   - Open Terminal.
+   - Type `python3 --version` and press Enter. 
+   - If Python is installed correctly, you should see the Python version number.
+
+### For PC Users
+
+1. **Install Python**: 
+   - Visit the [official Python website](https://www.python.org/downloads/).
+   - Download the latest version for Windows.
+   - Open the downloaded `.exe` file and follow the installation instructions. Make sure to check the box that says "Add Python to PATH" during installation.
+
+2. **Verify Installation**: 
+   - Open Command Prompt.
+   - Type `python --version` and press Enter. 
+   - If Python is installed correctly, you should see the Python version number.
+
+## Writing Your First Python Program
+
+1. **Create a Python File**:
+   - Open a text editor (like Notepad on PC or TextEdit on Mac).
+   - Write a simple program, for example: `print("Hello, world!")`.
+   - Save the file with a `.py` extension, like `hello.py`.
+
+2. **Run the Program**:
+   - Open Terminal (Mac) or Command Prompt (PC).
+   - Navigate to the directory where your `.py` file is saved using the `cd` command.
+   - Type `python3 hello.py` (Mac) or `python hello.py` (PC) and press Enter.
+   - You should see `Hello, world!` printed in the console.
+
+Congratulations! You have just run your first Python program.
+
