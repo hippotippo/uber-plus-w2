@@ -157,7 +157,7 @@ def main():
     if side_hustle_tax > 1000:
         print("\033[1mImmediate penalty applicable if above $1000 for the year. Estimated quarterly payments should be submitted.\033[0m")
 
-
+# Some of the formatiing above looks weird .2f makes sure the money comes out in two digits and the /033 is for colors for things to stand out
 
 if __name__ == "__main__":
     main()
