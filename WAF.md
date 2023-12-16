@@ -1,3 +1,4 @@
+```mermaid
 graph LR
     subgraph AWS Cloud
         Lightsail[Magento on AWS Lightsail]
