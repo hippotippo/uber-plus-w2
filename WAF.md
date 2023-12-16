@@ -1,4 +1,9 @@
+
 ```mermaid
+flowchart TD
+    A[WAF] -->|Secure Data| B(Load  Balancer)
+    B --> C{VPN Peering}
+    C -->|Lightsail| D[Magento 2]
 graph LR
     subgraph AWS Cloud
         Lightsail[Magento on AWS Lightsail]
